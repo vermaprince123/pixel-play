@@ -38,9 +38,5 @@ PixelPlay is a modern video game discovery web app that helps gamers explore and
    npm run dev
    ```
 
-## 📸 Screenshots
-![PixelPlay Screenshot](https://via.placeholder.com/800x400)
-
-
 ## 📜 License
 This project is open-source and available under the MIT License.
